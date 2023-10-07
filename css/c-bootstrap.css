@@ -1,0 +1,37 @@
+.btns {
+    display: flex;
+    margin: 10px 0;
+}
+
+.btn {
+    white-space: nowrap;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 14px;
+    margin: 0 5px;
+    border: 2px solid #fff;
+    transition: 0.3s ease;
+    font-weight: 500;
+}
+
+.btn:hover {
+    border-radius: 10px;
+}
+
+
+.btn-2 {
+    color: #fff;
+    background: #6e50fd;
+}
+
+.btn-filled {
+    color: #6e50fd;
+    background: #fff;
+}
+
+
+/* Others */
+
+.align-center {
+    text-align: center;
+}
